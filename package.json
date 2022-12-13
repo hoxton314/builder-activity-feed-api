@@ -1,0 +1,15 @@
+{
+  "name": "builder-activity-feed-api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/hoxton314/builder-activity-feed-api.git",
+  "author": "Hoxton <igorkalicinski@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "scripts": {
+    "start": "json-server --watch mockData.json"
+  }
+}
