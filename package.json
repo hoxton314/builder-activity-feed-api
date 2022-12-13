@@ -11,6 +11,5 @@
   },
   "scripts": {
     "start": "node server.js"
-    // "start": "json-server --watch mockData.json"
   }
 }
