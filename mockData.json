@@ -63,7 +63,7 @@
     },
     {
       "id": "2",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "BlockType1",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -124,7 +124,7 @@
     },
     {
       "id": "3",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "BlockType1",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -185,7 +185,7 @@
     },
     {
       "id": "4",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "BlockType1",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -307,7 +307,7 @@
     },
     {
       "id": "6",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "BlockType1",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -551,7 +551,7 @@
     },
     {
       "id": "10",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "BlockType1",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -673,7 +673,7 @@
     },
     {
       "id": "12",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "TrackableType2",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -734,7 +734,7 @@
     },
     {
       "id": "13",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "TrackableType2",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
@@ -1100,7 +1100,7 @@
     },
     {
       "id": "19",
-      "trackable_type": "AccountBlock::Account",
+      "trackable_type": "TrackableType2",
       "trackable_id": "1",
       "owner_type": "AccountBlock::Account",
       "owner_id": "1",
